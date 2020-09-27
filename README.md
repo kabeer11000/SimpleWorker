@@ -1,4 +1,4 @@
-### Kabeers # SimpleWorker
+Kabeers SimpleWorker
 ============
 >Inline web workers + promises
 
